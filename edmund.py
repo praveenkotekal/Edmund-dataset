@@ -7,7 +7,7 @@ import simplejson
 #import json
 import pandas as pd
 # edmunds.com API Key
-# edmunds_api = "4chq8nhap6rxr4w4q9yk33ru"
+
 key = 'your key'
 fmt_api_key = 'fmt=json&api_key=' + key
 
