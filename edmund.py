@@ -1,5 +1,11 @@
-# These code snippets use an open-source library. Edmund
-#
+##################################################################################
+##										     			      ##
+##  Praveen Kumar Kotekal									  ##
+##  Paper - Edmunds API Customer review and ratings Data Pull ##
+##             												  ##
+##														      ##
+##################################################################################
+
 
 # import necessary python libraries
 from urllib2 import Request, build_opener
