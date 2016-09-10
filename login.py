@@ -1,3 +1,10 @@
+##################################################################################
+##										     			      ##
+##  Praveen Kumar Kotekal									  ##
+##  Paper - Edmunds API Customer review and ratings Data Pull ##
+##             												  ##
+##														      ##
+##################################################################################
 
 from urllib2 import Request, build_opener
 import simplejson
@@ -7,7 +14,7 @@ user_agent = 'Mozilla/4.0 (compatible; MSIE 5.5; Windows NT)'
 headers = { 'User-Agent' : user_agent }
 
 # edmunds.com API Key
-key = 'sc3svg35bkwdr2nr8qg46prf'
+key = 'your key'
 fmt_api_key = 'fmt=json&api_key=' + key
 #  API call for recalls using model year IDs
 # for index, row in model_years_df.iterrows():
