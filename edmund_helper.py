@@ -13,7 +13,7 @@ import pandas as pd
 #import json
 
 # edmunds.com API Key
-key = 'sc3svg35bkwdr2nr8qg46prf'
+key = 'your key'
 fmt_api_key = 'fmt=json&api_key=' + key
 
 #used to make omdbapi.com think we are getting this data from a browser
